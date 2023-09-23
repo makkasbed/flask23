@@ -1,1 +1,5 @@
 fl23env
+build
+dist
+.gitignore
+*.egg-info
